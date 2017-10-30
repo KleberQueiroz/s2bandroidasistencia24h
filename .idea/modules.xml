@@ -3,7 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/s2bandroidassistencia24h.iml" filepath="$PROJECT_DIR$/.idea/s2bandroidassistencia24h.iml" />
+      <module fileurl="file://C:\Users\KleberQueiroz\StudioProjects\s2bandroidassistencia24h\.idea\s2bandroidasistencia24h.iml" filepath="C:\Users\KleberQueiroz\StudioProjects\s2bandroidassistencia24h\.idea\s2bandroidasistencia24h.iml" />
+      <module fileurl="file://$PROJECT_DIR$/s2bandroidassistencia24h.iml" filepath="$PROJECT_DIR$/s2bandroidassistencia24h.iml" />
     </modules>
   </component>
 </project>
